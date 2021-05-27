@@ -6,3 +6,11 @@ The summary statistics for temperature measurements (in °F) for the months of J
 
 
 <img width="246" alt="Screen Shot 2021-05-26 at 9 42 56 PM" src="https://user-images.githubusercontent.com/77812423/119752628-57dfe080-be6b-11eb-8fb7-b0d6f1f50198.png">
+
+Key Differences:
+
+* Higher average temperature in June than December, as expected.
+* December temperature data has larger range than that of June.
+* 27 °F difference between the maximum and minimum measurement in December versus 21 °F in June.
+* Also reflected in the increased standard deviation for December data.
+* Roughly equal interquartile ranges between June and December data.
