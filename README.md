@@ -1,2 +1,2 @@
-# surfs_up
+# Surfs_Up
 ## Overview of the Statistical Analysis
