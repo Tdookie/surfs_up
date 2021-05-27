@@ -14,3 +14,6 @@ Key Differences:
 * 27 °F difference between the maximum and minimum measurement in December versus 21 °F in June.
 * Also reflected in the increased standard deviation for December data.
 * Roughly equal interquartile ranges between June and December data.
+
+# Summary
+We see that on average the recorded temperature was higher in June than December by 3.9 °F. We also find there is a larger spread in the December data as shown by its increased standard deviation, indicating there are likley some December days with temperatures reaching those of June. This is also confirmed by the roughly equal maximum temperatures for each month. 
